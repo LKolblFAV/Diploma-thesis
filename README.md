@@ -1,4 +1,4 @@
-# Diploma_thesis_LK
+# DiplomathesisLK
 Code for my diploma thesis.
 
 .py are python files with different architectures that are executable after changing:
